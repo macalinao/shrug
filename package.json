@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/simplyianm/shrug/issues"
   },
+  "bin": {
+    "shrug": "bin/shrug.js"
+  },
   "homepage": "https://github.com/simplyianm/shrug#readme"
 }
