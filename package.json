@@ -1,0 +1,22 @@
+{
+  "name": "shrug",
+  "version": "0.1.0",
+  "description": "Shrugs.",
+  "main": "shrug.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplyianm/shrug.git"
+  },
+  "keywords": [
+    "shrug"
+  ],
+  "author": "Ian Macalinao <me@ian.pw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplyianm/shrug/issues"
+  },
+  "homepage": "https://github.com/simplyianm/shrug#readme"
+}
