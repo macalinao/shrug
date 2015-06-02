@@ -21,5 +21,9 @@
   "bin": {
     "shrug": "bin/shrug.js"
   },
-  "homepage": "https://github.com/simplyianm/shrug#readme"
+  "homepage": "https://github.com/simplyianm/shrug#readme",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5"
+  }
 }
