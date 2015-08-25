@@ -1,3 +1,4 @@
-module.exports = function() {
-  return '¯\\_(ツ)_/¯';
+module.exports = function(innerShrug) {
+  innerShrug = innerShrug || 'ツ';
+  return '¯\\_(' + innerShrug + ')_/¯';
 };
